@@ -35,7 +35,9 @@
     "url": "https://github.com/alykoshin/wrtc-peerconnection/issues"
   },
   "homepage": "https://github.com/alykoshin/wrtc-peerconnection",
-  "dependencies": {},
+  "dependencies": {
+    "mini-emitter": "0.0.3"
+  },
   "devDependencies": {
     "chai": "^3.4.1",
     "coveralls": "^2.11.4",
