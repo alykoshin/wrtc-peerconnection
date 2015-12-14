@@ -1,6 +1,6 @@
 {
   "name": "wrtc-peerconnection",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Low-level wrapper for WebRTC rtcpeerconnection",
   "main": "app/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "coverall": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "keywords": [
-      "webrtc,wrtc,rtcpeerconnection,peerconnection"
+    "webrtc,wrtc,rtcpeerconnection,peerconnection"
   ],
   "author": "Alexander <alykoshin@gmail.com>",
   "license": "MIT",
@@ -35,8 +35,7 @@
     "url": "https://github.com/alykoshin/wrtc-peerconnection/issues"
   },
   "homepage": "https://github.com/alykoshin/wrtc-peerconnection",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^3.4.1",
     "coveralls": "^2.11.4",
