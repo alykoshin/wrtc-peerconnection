@@ -1,6 +1,6 @@
 {
   "name": "wrtc-peerconnection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Low-level wrapper for WebRTC rtcpeerconnection",
   "main": "app/index.js",
   "scripts": {
