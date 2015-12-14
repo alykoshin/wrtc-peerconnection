@@ -5,7 +5,7 @@
 'use strict';
 
 if ( typeof module !== 'undefined' && typeof require !== 'undefined') {
-  var debug   = require('mini-debug');
+  //var debug   = require('mini-debug');
   var Emitter = require('mini-emitter');
 }
 
